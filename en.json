@@ -188,7 +188,12 @@
     "views": "views",
     "Ledger": "Ledger",
     "You-can-do-it-here": "You can do it here",
-    "Certification": "Certification"
+    "Certification": "Certification",
+    "Previous": "Previous",
+    "Receipt": "Receipt",
+    "Close": "Close",
+    "Status": "Status",
+    "Pending": "Pending"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -797,7 +802,17 @@
       "who-c-find-me-d": "When your username is entered in the search bar, these people will be able to see your profile displayed.  "
     },
     "ledger": {
-      "Yr-account-balance-is": "Your account balance is : {{value}}"
+      "Yr-account-balance-is": "Your account balance is : {{value}}",
+      "Amount": "Amount",
+      "Address": "Address",
+      "Pending-Transfert-Request": "Pending Transfert Request",
+      "T-update-can-take-15min-after-the-confirmation": "The update can take 15min after the confirmation",
+      "Currency": "Currency",
+      "Transfer": "Transfer",
+      "Account-disable-now-description": "Account temporarily disabled, you are invisible on the platforme now. If  your account is inactive for the next payment, 4.99 will be withdrawn of your next sold to enjoy the next 30 days.",
+      "price-per-month": "4.99$ / months",
+      "Card-description-payment-subscription": "The subscription allows you to remain in this platform with all functionalities. All your information are privately secured within this platform. Wiins will never share your information to third party companies. Every content stays within the platform. Welcome to Wiins.",
+      "Next-facturation-date": "Next facturation in {{value}} days"
     },
     "verified": {
       "Verified-zone": "Verified zone",

@@ -188,7 +188,12 @@
     "views": "ਵਿਚਾਰ",
     "Ledger": "",
     "You-can-do-it-here": "",
-    "Certification": ""
+    "Certification": "",
+    "Previous": "",
+    "Receipt": "",
+    "Close": "",
+    "Status": "",
+    "Pending": ""
   },
   "COUNTRY": {
     "AD": " ਅੰਡੋਰਾ",
@@ -797,7 +802,17 @@
       "who-c-find-me-d": "ਜਦੋਂ ਤੁਹਾਡਾ ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਸਰਚ ਬਾਰ ਵਿੱਚ ਦਾਖਲ ਹੁੰਦਾ ਹੈ, ਇਹ ਲੋਕ ਤੁਹਾਡੀ ਪ੍ਰੋਫਾਈਲ ਨੂੰ ਪ੍ਰਦਰਸ਼ਤ ਕਰਨ ਦੇ ਯੋਗ ਹੋਣਗੇ."
     },
     "ledger": {
-      "Yr-account-balance-is": ""
+      "Yr-account-balance-is": "",
+      "Amount": "",
+      "Address": "",
+      "Pending-Transfert-Request": "",
+      "T-update-can-take-15min-after-the-confirmation": "",
+      "Currency": "",
+      "Transfer": "",
+      "Account-disable-now-description": "",
+      "price-per-month": "",
+      "Card-description-payment-subscription": "",
+      "Next-facturation-date": ""
     },
     "verified": {
       "Verified-zone": "",

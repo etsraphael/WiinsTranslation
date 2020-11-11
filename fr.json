@@ -188,7 +188,12 @@
     "views": "vues",
     "Ledger": "Ledger",
     "You-can-do-it-here": "Vous pouvez le faire ici",
-    "Certification": "Certification"
+    "Certification": "Certification",
+    "Previous": "Précédent",
+    "Receipt": "",
+    "Close": "",
+    "Status": "",
+    "Pending": ""
   },
   "COUNTRY": {
     "AD": "Andorre",
@@ -797,7 +802,17 @@
       "who-c-find-me-d": "Lorsque votre pseudo est écrit dans la barre de recherche ces personnes pourront voir votre profile affiché. "
     },
     "ledger": {
-      "Yr-account-balance-is": "Le solde de votre compte est : {{value}}"
+      "Yr-account-balance-is": "Le solde de votre compte est : {{value}}",
+      "Amount": "",
+      "Address": "",
+      "Pending-Transfert-Request": "",
+      "T-update-can-take-15min-after-the-confirmation": "",
+      "Currency": "",
+      "Transfer": "",
+      "Account-disable-now-description": "",
+      "price-per-month": "",
+      "Card-description-payment-subscription": "",
+      "Next-facturation-date": ""
     },
     "verified": {
       "Verified-zone": "Zone verifiée",

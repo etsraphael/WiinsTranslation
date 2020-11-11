@@ -188,7 +188,12 @@
     "views": "взгляды",
     "Ledger": "",
     "You-can-do-it-here": "",
-    "Certification": ""
+    "Certification": "",
+    "Previous": "",
+    "Receipt": "",
+    "Close": "",
+    "Status": "",
+    "Pending": ""
   },
   "COUNTRY": {
     "AD": "Андорра",
@@ -797,7 +802,17 @@
       "who-c-find-me-d": "Когда ваше имя пользователя будет введено в панель поиска, эти люди смогут видеть ваш профиль отображается.  "
     },
     "ledger": {
-      "Yr-account-balance-is": ""
+      "Yr-account-balance-is": "",
+      "Amount": "",
+      "Address": "",
+      "Pending-Transfert-Request": "",
+      "T-update-can-take-15min-after-the-confirmation": "",
+      "Currency": "",
+      "Transfer": "",
+      "Account-disable-now-description": "",
+      "price-per-month": "",
+      "Card-description-payment-subscription": "",
+      "Next-facturation-date": ""
     },
     "verified": {
       "Verified-zone": "",

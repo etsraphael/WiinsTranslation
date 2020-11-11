@@ -188,7 +188,12 @@
     "views": "vistas",
     "Ledger": "",
     "You-can-do-it-here": "",
-    "Certification": ""
+    "Certification": "",
+    "Previous": "",
+    "Receipt": "",
+    "Close": "",
+    "Status": "",
+    "Pending": ""
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -797,7 +802,17 @@
       "who-c-find-me-d": "Cuando se introduce tu nombre de usuario en la barra de búsqueda, estas personas podrán ver tu perfil mostrado.  "
     },
     "ledger": {
-      "Yr-account-balance-is": ""
+      "Yr-account-balance-is": "",
+      "Amount": "",
+      "Address": "",
+      "Pending-Transfert-Request": "",
+      "T-update-can-take-15min-after-the-confirmation": "",
+      "Currency": "",
+      "Transfer": "",
+      "Account-disable-now-description": "",
+      "price-per-month": "",
+      "Card-description-payment-subscription": "",
+      "Next-facturation-date": ""
     },
     "verified": {
       "Verified-zone": "",

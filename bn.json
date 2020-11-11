@@ -188,7 +188,12 @@
     "views": "মতামত",
     "Ledger": "",
     "You-can-do-it-here": "",
-    "Certification": ""
+    "Certification": "",
+    "Previous": "",
+    "Receipt": "",
+    "Close": "",
+    "Status": "",
+    "Pending": ""
   },
   "COUNTRY": {
     "AD": " এ্যান্ডোরা",
@@ -797,7 +802,17 @@
       "who-c-find-me-d": "যখন আপনার ব্যবহারকারীর নাম অনুসন্ধান বারে প্রবেশ করা হবে তখন এই ব্যক্তিরা আপনার প্রোফাইল প্রদর্শিত দেখতে সক্ষম হবেন।"
     },
     "ledger": {
-      "Yr-account-balance-is": ""
+      "Yr-account-balance-is": "",
+      "Amount": "",
+      "Address": "",
+      "Pending-Transfert-Request": "",
+      "T-update-can-take-15min-after-the-confirmation": "",
+      "Currency": "",
+      "Transfer": "",
+      "Account-disable-now-description": "",
+      "price-per-month": "",
+      "Card-description-payment-subscription": "",
+      "Next-facturation-date": ""
     },
     "verified": {
       "Verified-zone": "",
