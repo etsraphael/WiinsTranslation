@@ -245,7 +245,14 @@
     "soon": "snart",
     "views": "visninger",
     "For-You": "For dig",
-    "Discover": "Opdage"
+    "Discover": "Opdage",
+    "Community": "Fællesskab",
+    "Subscribed": "Abonneret",
+    "Go-to-profile": "Gå til profil",
+    "Friend": "Ven",
+    "Towards-an-infinite-space": "Mod et uendeligt rum",
+    "Hello": "Hej",
+    "Publication": "Offentliggørelse"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -528,7 +535,7 @@
   },
   "EMPTY-MESSAGE": {
     "You-haven-t-liked-music-yet": "Du har ikke ønsket musik endnu",
-    "no-friend-request": "Ingen efterspørgsel ven lige nu",
+    "no-friend-request": "Ingen venneanmodning lige nu",
     "no-notification": "Ingen underretning endnu"
   },
   "ERROR-MESSAGE": {
@@ -598,7 +605,11 @@
     "y-h-to-accept-the-tou": "Du skal acceptere vilkårene og betingelserne for brug",
     "y-h-to-delete-yr-page-or-group-before": "Du skal slette dine sider eller grupper før",
     "y-have-to-be-friend": "du skal være venner",
-    "you-hav-to-upgrad-a-manager-before-leave": "Du skal promovere en manager, inden du forlader gruppen"
+    "you-hav-to-upgrad-a-manager-before-leave": "Du skal promovere en manager, inden du forlader gruppen",
+    "T-min-is-1$": "Minimumet er 1 $",
+    "Missing-informations": "Manglende information",
+    "Account_desactivated": "Konto deaktiveret",
+    "Y-dont-have-a-conversation-yet": "Du har ikke en samtale endnu."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Billedet er modtaget",
@@ -628,7 +639,11 @@
     "Registration": "Registrering",
     "Sign-up": "Tilmelde",
     "accept-tou": "Jeg accepterer vilkårene og betingelserne for brug",
-    "click-on-email": "Klik på e-mail-linket"
+    "click-on-email": "Klik på e-mail-linket",
+    "Create-yr-account": "Opret din konto",
+    "Creating-yr-account": "Oprettelse af din konto",
+    "Login-first-to-continue": "Log ind først for at fortsætte",
+    "Checking-yr-infos": "Kontrol af dine oplysninger"
   },
   "MAIN-MUSIC": {
     "Lastest-Project": "Sidste projekt",
@@ -668,7 +683,11 @@
     "tag-you-in-comment": "tagget dig i en kommentar",
     "tag-you-in-playlist": "tagget dig i en playliste",
     "you-appear-in-project-of": "Du vises i det nye projekt af",
-    "you-have": "du har"
+    "you-have": "du har",
+    "Yr-verification-request-was-accepted": "Din bekræftelsesanmodning blev accepteret",
+    "Yr-verification-request-was-refused": "Din anmodning om bekræftelse blev afvist",
+    "Yr-certification-request-was-accepted": "Din certificeringsanmodning blev accepteret",
+    "Yr-certification-request-was-refused": "Din certificeringsanmodning blev afvist"
   },
   "PAGE": {
     "Name-page": "Sidens navn",
@@ -810,7 +829,8 @@
         "Kontosuspension"
       ],
       "body-message-reason": "Dit indhold er blevet rapporteret af Wiins-gruppen. En af dine publikationer blev derfor slettet af Wiins-moderering af følgende grund:",
-      "please-read-our-community-rules": "Læs vores fællesskabsregler"
+      "please-read-our-community-rules": "Læs vores fællesskabsregler",
+      "To-fight-against-inappropriate-contents-D": "At bekæmpe uhensigtsmæssigt indhold, der anses for foragteligt for samfundet. Vi kan slette det på grund af disse grunde."
     },
     "Report-Reponsed": {
       "already_exist": "Du har allerede rapporteret denne publikation",
@@ -903,7 +923,8 @@
       "Verification": "Verifikation",
       "Verified-zone": "Bekræftet zone",
       "Y-m-complet-t-following-cdt-t-b-certified": "Du skal udfylde følgende betingelser for at blive certificeret.",
-      "Yr-profil-is-currently-being-checked-D": "Din profil kontrolleres i øjeblikket. Vi kontakter dig inden for 48 timer via e-mail."
+      "Yr-profil-is-currently-being-checked-D": "Din profil kontrolleres i øjeblikket. Vi kontakter dig inden for 48 timer via e-mail.",
+      "M-s-t-upload-t-back-of-the-card-if-its-a-national-id-card": "Sørg for at uploade bagsiden af kortet, hvis det er et nationalt id-kort (kun for det nationale kort)"
     },
     "visibility": {
       "my-publications-are-visible-b-m-friends": "Mine publikationer er kun synlige af mine venner",

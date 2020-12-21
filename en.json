@@ -203,7 +203,14 @@
     "Both": "Both",
     "Break-the-rules": "Break the rules",
     "For-You": "For you",
-    "Discover": "Discover"
+    "Discover": "Discover",
+    "Community": "Community",
+    "Subscribed": "Subscribed",
+    "Go-to-profile": "Go to profile",
+    "Friend": "Friend",
+    "Towards-an-infinite-space": "Towards an infinite space",
+    "Hello": "Hello",
+    "Publication": "Publication"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -486,7 +493,7 @@
   },
   "EMPTY-MESSAGE": {
     "You-haven-t-liked-music-yet": "You haven't liked music yet",
-    "no-friend-request": "No friend of demand right now",
+    "no-friend-request": "No friend request right now",
     "no-notification": "No notification yet"
   },
   "ERROR-MESSAGE": {
@@ -556,7 +563,11 @@
     "You-hv-to-be-verified": "You have to be verified",
     "You-hv-to-get-t-community": "You have to get the community",
     "Please-choose-cat-and-sub": "Please choose category and sub category",
-    "Please-upload-the-poster-before": "Please upload the poster of the video before"
+    "Please-upload-the-poster-before": "Please upload the poster of the video before",
+    "T-min-is-1$": "The minimum is 1$",
+    "Missing-informations": "Missing informations",
+    "Account_desactivated": "Account desactivated",
+    "Y-dont-have-a-conversation-yet": "You don't have a conversation yet."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "The photo is received",
@@ -586,7 +597,11 @@
     "Registration": "Registration",
     "Sign-up": "Sign up",
     "accept-tou": "I accept the terms and conditions of use",
-    "click-on-email": "Please click on the email link"
+    "click-on-email": "Please click on the email link",
+    "Create-yr-account": "Create your account",
+    "Creating-yr-account": "Creating your account",
+    "Login-first-to-continue": "Login first to continue",
+    "Checking-yr-infos": "Checking your infos"
   },
   "MAIN-MUSIC": {
     "Lastest-Project": "Lastest project",
@@ -626,7 +641,11 @@
     "tag-you-in-comment": "tagged you in a comment",
     "tag-you-in-playlist": "tagged you in a playlist",
     "you-appear-in-project-of": "You appear in the new project of",
-    "you-have": "you have"
+    "you-have": "you have",
+    "Yr-verification-request-was-accepted": "Your verification request was accepted",
+    "Yr-verification-request-was-refused": "Your verification request was refused",
+    "Yr-certification-request-was-accepted": "Your certification request was accepted",
+    "Yr-certification-request-was-refused": "Your certification request was refused"
   },
   "PAGE": {
     "Name-page": "Page name",
@@ -747,8 +766,7 @@
         "9": {
           "1": "The creation of a \"fake profile\" based on the first and last name of an existing person...",
           "2": "Disseminate \"public\" information about a user without his or her permission and any other information that has been modified or transformed."
-        },
-        "We-delete": "We delete"
+        }
       },
       "Title-Level": {
         "1": "Be carreful",
@@ -757,7 +775,8 @@
         "4": "Account suspension"
       },
       "body-message-reason": "Your content has been reported by the community of Wiins. One of your publications was therefore deleted by Wiins moderation for the following reason : ",
-      "please-read-our-community-rules": "Please read our community rules"
+      "please-read-our-community-rules": "Please read our community rules",
+      "To-fight-against-inappropriate-contents-D": "To fight against inappropriate contents which deemed disdainful to the community. We can delete it due to these reasons."
     },
     "Report-Reponsed": {
       "already_exist": "You have already reported this publication",
@@ -850,7 +869,8 @@
       "Pl-s-t-docs-a-complet-t-form-below": "Please send the necessary documents and complete the form below.",
       "Upload-yr-password-id-identity-or-driver-license": "Upload your password, id identity or driver license.",
       "Upload-a-photo-holding-t-ID-D": "Upload a photo holding the ID with a sheet of paper with today’s date and \"Wiins\" writes on it.",
-      "I-agree-t-m-data-may-b-used-t-check-my-account": "I agree that my data may be used to check my account."
+      "I-agree-t-m-data-may-b-used-t-check-my-account": "I agree that my data may be used to check my account.",
+      "M-s-t-upload-t-back-of-the-card-if-its-a-national-id-card": "Make sure to upload the back side of the card if it's the a national id card (only for the national card)"
     },
     "visibility": {
       "my-publications-are-visible-b-m-friends": "My publications are visible only by my friends",

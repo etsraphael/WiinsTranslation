@@ -245,7 +245,14 @@
     "soon": "laster",
     "views": "ikuspegiak",
     "For-You": "Zuretzat",
-    "Discover": "Ezagutu"
+    "Discover": "Ezagutu",
+    "Community": "Komunitatea",
+    "Subscribed": "Harpidetuta",
+    "Go-to-profile": "Joan profilera",
+    "Friend": "Laguna",
+    "Towards-an-infinite-space": "Espazio infinitu baterantz",
+    "Hello": "Kaixo",
+    "Publication": "Argitalpena"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -528,7 +535,7 @@
   },
   "EMPTY-MESSAGE": {
     "You-haven-t-liked-music-yet": "Oraindik ez zaizu musika gustatu",
-    "no-friend-request": "Oraintxe ez dago eskaeraren lagunik",
+    "no-friend-request": "Oraintxe ez dago lagun eskaerarik",
     "no-notification": "Jakinarazpenik ez oraindik"
   },
   "ERROR-MESSAGE": {
@@ -598,7 +605,11 @@
     "y-h-to-accept-the-tou": "Erabilera baldintzak eta baldintzak onartu behar dituzu",
     "y-h-to-delete-yr-page-or-group-before": "Zure orriak edo taldeak ezabatu behar dituzu aurretik",
     "y-have-to-be-friend": "lagunak izan behar duzu",
-    "you-hav-to-upgrad-a-manager-before-leave": "Taldea utzi aurretik kudeatzailea sustatu behar duzu"
+    "you-hav-to-upgrad-a-manager-before-leave": "Taldea utzi aurretik kudeatzailea sustatu behar duzu",
+    "T-min-is-1$": "Gutxienekoa 1 $ da",
+    "Missing-informations": "Informazioa falta da",
+    "Account_desactivated": "Kontua desaktibatuta",
+    "Y-dont-have-a-conversation-yet": "Oraindik ez duzu elkarrizketarik."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Argazkia jaso da",
@@ -628,7 +639,11 @@
     "Registration": "Izena ematea",
     "Sign-up": "Izena eman",
     "accept-tou": "Erabilera baldintzak eta baldintzak onartzen ditut",
-    "click-on-email": "Egin klik posta elektronikoaren estekan"
+    "click-on-email": "Egin klik posta elektronikoaren estekan",
+    "Create-yr-account": "Sortu zure kontua",
+    "Creating-yr-account": "Zure kontua sortzen",
+    "Login-first-to-continue": "Hasi saioa lehenbailehen jarraitzeko",
+    "Checking-yr-infos": "Zure informazioa egiaztatzen"
   },
   "MAIN-MUSIC": {
     "Lastest-Project": "Azken proiektua",
@@ -668,7 +683,11 @@
     "tag-you-in-comment": "iruzkin batean etiketatu zaitu",
     "tag-you-in-playlist": "erreprodukzio zerrenda batean etiketatu zaitu",
     "you-appear-in-project-of": "Proiektuaren proiektu berrian agertzen zara",
-    "you-have": "duzu"
+    "you-have": "duzu",
+    "Yr-verification-request-was-accepted": "Zure egiaztapen eskaera onartu da",
+    "Yr-verification-request-was-refused": "Zure egiaztapen eskaera ukatu egin da",
+    "Yr-certification-request-was-accepted": "Zure ziurtagiri eskaera onartu da",
+    "Yr-certification-request-was-refused": "Zure ziurtagiri eskaera ukatu egin da"
   },
   "PAGE": {
     "Name-page": "Orriaren izena",
@@ -810,7 +829,8 @@
         "Kontua etetea"
       ],
       "body-message-reason": "Wiins komunitateak jakinarazi du zure edukia. Zure argitalpenetako bat Wiins moderazioarekin ezabatu zen, arrazoi hau dela eta:",
-      "please-read-our-community-rules": "Irakurri gure komunitatearen arauak"
+      "please-read-our-community-rules": "Irakurri gure komunitatearen arauak",
+      "To-fight-against-inappropriate-contents-D": "Komunitateari mespretxagarria deritzoten eduki desegokien aurka borrokatzea. Arrazoi hauengatik ezabatu dezakegu."
     },
     "Report-Reponsed": {
       "already_exist": "Argitalpen honen berri eman duzu dagoeneko",
@@ -903,7 +923,8 @@
       "Verification": "Egiaztapena",
       "Verified-zone": "Egiaztatutako zona",
       "Y-m-complet-t-following-cdt-t-b-certified": "Ziurtagiria lortzeko honako baldintza hauek bete behar dituzu.",
-      "Yr-profil-is-currently-being-checked-D": "Zure profila egiaztatzen ari da. 48 orduko epean zurekin harremanetan jarriko gara posta elektronikoz."
+      "Yr-profil-is-currently-being-checked-D": "Zure profila egiaztatzen ari da. 48 orduko epean zurekin harremanetan jarriko gara posta elektronikoz.",
+      "M-s-t-upload-t-back-of-the-card-if-its-a-national-id-card": "Ziurtatu txartelaren atzealdea kargatzen duzula nortasun agiri nazionala bada (txartel nazionalerako soilik)"
     },
     "visibility": {
       "my-publications-are-visible-b-m-friends": "Nire argitalpenak lagunek soilik ikus ditzakete",

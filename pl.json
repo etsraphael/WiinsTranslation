@@ -245,7 +245,14 @@
     "soon": "wkrótce",
     "views": "wyświetlenia",
     "For-You": "Dla Was",
-    "Discover": "Odkryć"
+    "Discover": "Odkryć",
+    "Community": "Społeczność",
+    "Subscribed": "Zasubskrybowano",
+    "Go-to-profile": "Przejdź do profilu",
+    "Friend": "Przyjaciel",
+    "Towards-an-infinite-space": "Ku nieskończonej przestrzeni",
+    "Hello": "dzień dobry",
+    "Publication": "Publikacja"
   },
   "COUNTRY": {
     "AD": "Andora",
@@ -528,7 +535,7 @@
   },
   "EMPTY-MESSAGE": {
     "You-haven-t-liked-music-yet": "Nie lubiłeś jeszcze muzyki",
-    "no-friend-request": "Żaden przyjaciel popytu w tej chwili",
+    "no-friend-request": "Brak zaproszenia do znajomych w tej chwili",
     "no-notification": "Nie ma jeszcze powiadomienia"
   },
   "ERROR-MESSAGE": {
@@ -598,7 +605,11 @@
     "y-h-to-accept-the-tou": "Musisz zaakceptować warunki użytkowania",
     "y-h-to-delete-yr-page-or-group-before": "Musisz wcześniej usunąć swoje strony lub grupy",
     "y-have-to-be-friend": "musicie być przyjaciółmi",
-    "you-hav-to-upgrad-a-manager-before-leave": "Musisz awansować menedżera przed opuszczeniem grupy"
+    "you-hav-to-upgrad-a-manager-before-leave": "Musisz awansować menedżera przed opuszczeniem grupy",
+    "T-min-is-1$": "Minimalna kwota to 1 $",
+    "Missing-informations": "Brak informacji",
+    "Account_desactivated": "Konto zostało dezaktywowane",
+    "Y-dont-have-a-conversation-yet": "Nie masz jeszcze rozmowy."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Zdjęcie zostało odebrane",
@@ -628,7 +639,11 @@
     "Registration": "Rejestracja",
     "Sign-up": "Zapisz się",
     "accept-tou": "Akceptuję regulamin",
-    "click-on-email": "Kliknij łącze e-mail"
+    "click-on-email": "Kliknij łącze e-mail",
+    "Create-yr-account": "Utwórz swoje konto",
+    "Creating-yr-account": "Tworzenie Twojego konta",
+    "Login-first-to-continue": "Zaloguj się najpierw, aby kontynuować",
+    "Checking-yr-infos": "Sprawdzam Twoje informacje"
   },
   "MAIN-MUSIC": {
     "Lastest-Project": "Ostatni projekt",
@@ -668,7 +683,11 @@
     "tag-you-in-comment": "oznaczył Cię w komentarzu",
     "tag-you-in-playlist": "oznaczył Cię na liście odtwarzania",
     "you-appear-in-project-of": "Pojawiasz się w nowym projekcie",
-    "you-have": "ty masz"
+    "you-have": "ty masz",
+    "Yr-verification-request-was-accepted": "Twoja prośba o weryfikację została zaakceptowana",
+    "Yr-verification-request-was-refused": "Twoja prośba o weryfikację została odrzucona",
+    "Yr-certification-request-was-accepted": "Twoja prośba o certyfikat została zaakceptowana",
+    "Yr-certification-request-was-refused": "Twoja prośba o certyfikat została odrzucona"
   },
   "PAGE": {
     "Name-page": "Nazwa strony",
@@ -810,7 +829,8 @@
         "Zawieszenie konta"
       ],
       "body-message-reason": "Twoje treści zostały zgłoszone przez społeczność Wiins. Dlatego jedna z Twoich publikacji została usunięta przez moderację Wiins z następującego powodu:",
-      "please-read-our-community-rules": "Przeczytaj nasze zasady społeczności"
+      "please-read-our-community-rules": "Przeczytaj nasze zasady społeczności",
+      "To-fight-against-inappropriate-contents-D": "Walka z nieodpowiednimi treściami, które zostały uznane za pogardliwe dla społeczności. Z tych powodów możemy go usunąć."
     },
     "Report-Reponsed": {
       "already_exist": "Już zgłosiłeś tę publikację",
@@ -903,7 +923,8 @@
       "Verification": "Weryfikacja",
       "Verified-zone": "Strefa zweryfikowana",
       "Y-m-complet-t-following-cdt-t-b-certified": "Aby uzyskać certyfikat, musisz spełnić następujące warunki.",
-      "Yr-profil-is-currently-being-checked-D": "Twój profil jest obecnie sprawdzany. W ciągu 48 godzin skontaktujemy się z Tobą mailowo."
+      "Yr-profil-is-currently-being-checked-D": "Twój profil jest obecnie sprawdzany. W ciągu 48 godzin skontaktujemy się z Tobą mailowo.",
+      "M-s-t-upload-t-back-of-the-card-if-its-a-national-id-card": "Pamiętaj, aby przesłać odwrotną stronę karty, jeśli jest to krajowy dowód tożsamości (tylko w przypadku krajowego dowodu osobistego)"
     },
     "visibility": {
       "my-publications-are-visible-b-m-friends": "Moje publikacje są widoczne tylko dla moich znajomych",

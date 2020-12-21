@@ -245,7 +245,14 @@
     "soon": "snart",
     "views": "utsikt",
     "For-You": "Till dig",
-    "Discover": "Upptäck"
+    "Discover": "Upptäck",
+    "Community": "gemenskap",
+    "Subscribed": "Prenumerera",
+    "Go-to-profile": "Gå till profil",
+    "Friend": "Vän",
+    "Towards-an-infinite-space": "Mot ett oändligt utrymme",
+    "Hello": "Hallå",
+    "Publication": "Offentliggörande"
   },
   "COUNTRY": {
     "AD": "andorra",
@@ -528,7 +535,7 @@
   },
   "EMPTY-MESSAGE": {
     "You-haven-t-liked-music-yet": "Du har inte gillat musik än",
-    "no-friend-request": "Ingen efterfrågad vän just nu",
+    "no-friend-request": "Ingen vänförfrågan just nu",
     "no-notification": "Ingen anmälan ännu"
   },
   "ERROR-MESSAGE": {
@@ -598,7 +605,11 @@
     "y-h-to-accept-the-tou": "Du måste acceptera användarvillkoren",
     "y-h-to-delete-yr-page-or-group-before": "Du måste ta bort dina sidor eller grupper innan",
     "y-have-to-be-friend": "ni måste vara vänner",
-    "you-hav-to-upgrad-a-manager-before-leave": "Du måste marknadsföra en chef innan du lämnar gruppen"
+    "you-hav-to-upgrad-a-manager-before-leave": "Du måste marknadsföra en chef innan du lämnar gruppen",
+    "T-min-is-1$": "Lägsta är 1 $",
+    "Missing-informations": "Information saknas",
+    "Account_desactivated": "Konto avaktiverat",
+    "Y-dont-have-a-conversation-yet": "Du har inte en konversation än."
   },
   "FEED-PUBLICATION": {
     "Picture-received": "Fotoet tas emot",
@@ -628,7 +639,11 @@
     "Registration": "Registrering",
     "Sign-up": "Bli Medlem",
     "accept-tou": "Jag accepterar användarvillkoren",
-    "click-on-email": "Klicka på e-postlänken"
+    "click-on-email": "Klicka på e-postlänken",
+    "Create-yr-account": "Skapa ditt konto",
+    "Creating-yr-account": "Skapa ditt konto",
+    "Login-first-to-continue": "Logga in först för att fortsätta",
+    "Checking-yr-infos": "Kontrollera dina informationer"
   },
   "MAIN-MUSIC": {
     "Lastest-Project": "Senaste projektet",
@@ -668,7 +683,11 @@
     "tag-you-in-comment": "taggade dig i en kommentar",
     "tag-you-in-playlist": "taggade dig i en spellista",
     "you-appear-in-project-of": "Du visas i det nya projektet av",
-    "you-have": "du har"
+    "you-have": "du har",
+    "Yr-verification-request-was-accepted": "Din verifieringsförfrågan accepterades",
+    "Yr-verification-request-was-refused": "Din verifieringsförfrågan avslogs",
+    "Yr-certification-request-was-accepted": "Din certifieringsförfrågan accepterades",
+    "Yr-certification-request-was-refused": "Din certifieringsförfrågan avslogs"
   },
   "PAGE": {
     "Name-page": "Sidnamn",
@@ -810,7 +829,8 @@
         "Avstängning av konto"
       ],
       "body-message-reason": "Ditt innehåll har rapporterats av Wiins community. En av dina publikationer raderades därför av Wiins moderering av följande skäl:",
-      "please-read-our-community-rules": "Läs våra communityregler"
+      "please-read-our-community-rules": "Läs våra communityregler",
+      "To-fight-against-inappropriate-contents-D": "Att bekämpa olämpligt innehåll som anses vara föraktligt mot samhället. Vi kan ta bort det på grund av dessa skäl."
     },
     "Report-Reponsed": {
       "already_exist": "Du har redan rapporterat denna publikation",
@@ -903,7 +923,8 @@
       "Verification": "Verifiering",
       "Verified-zone": "Verifierad zon",
       "Y-m-complet-t-following-cdt-t-b-certified": "Du måste fylla i följande villkor för att bli certifierad.",
-      "Yr-profil-is-currently-being-checked-D": "Din profil kontrolleras för närvarande. Vi kontaktar dig inom 48 timmar via e-post."
+      "Yr-profil-is-currently-being-checked-D": "Din profil kontrolleras för närvarande. Vi kontaktar dig inom 48 timmar via e-post.",
+      "M-s-t-upload-t-back-of-the-card-if-its-a-national-id-card": "Se till att ladda upp baksidan av kortet om det är ett nationellt id-kort (endast för det nationella kortet)"
     },
     "visibility": {
       "my-publications-are-visible-b-m-friends": "Mina publikationer är endast synliga av mina vänner",
