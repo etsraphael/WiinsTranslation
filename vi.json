@@ -253,10 +253,10 @@
     "responses": "phản hồi",
     "soon": "Sớm",
     "views": "lượt xem",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Chia sẻ",
+    "Url-Copied": "Đã sao chép url",
+    "Download": "Tải xuống",
+    "Downloaded": "Đã tải xuống"
   },
   "COUNTRY": {
     "AD": "Andorra",

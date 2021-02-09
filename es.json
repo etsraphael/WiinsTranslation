@@ -211,10 +211,10 @@
     "Towards-an-infinite-space": "Hacia un espacio infinito",
     "Hello": "Hola",
     "Publication": "Publicación",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Compartir",
+    "Url-Copied": "URL copiada",
+    "Download": "Descargar",
+    "Downloaded": "Descargado"
   },
   "COUNTRY": {
     "AD": "Andorra",

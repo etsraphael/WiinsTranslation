@@ -253,10 +253,10 @@
     "responses": "vastauksia",
     "soon": "pian",
     "views": "näkymät",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Jaa",
+    "Url-Copied": "URL kopioitu",
+    "Download": "ladata",
+    "Downloaded": "Ladattu"
   },
   "COUNTRY": {
     "AD": "Andorra",

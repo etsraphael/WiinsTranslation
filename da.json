@@ -253,10 +253,10 @@
     "Towards-an-infinite-space": "Mod et uendeligt rum",
     "Hello": "Hej",
     "Publication": "Offentliggørelse",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Del",
+    "Url-Copied": "URL kopieret",
+    "Download": "Hent",
+    "Downloaded": "Downloadet"
   },
   "COUNTRY": {
     "AD": "Andorra",

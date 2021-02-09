@@ -211,10 +211,10 @@
     "Towards-an-infinite-space": "무한한 공간을 향해",
     "Hello": "여보세요",
     "Publication": "출판",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "공유",
+    "Url-Copied": "URL이 복사되었습니다.",
+    "Download": "다운로드",
+    "Downloaded": "다운로드 됨"
   },
   "COUNTRY": {
     "AD": "안도라",

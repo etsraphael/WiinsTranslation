@@ -253,10 +253,10 @@
     "Towards-an-infinite-space": "Mot et uendelig rom",
     "Hello": "Hallo",
     "Publication": "Utgivelse",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Dele",
+    "Url-Copied": "URL ble kopiert",
+    "Download": "nedlasting",
+    "Downloaded": "Lastet ned"
   },
   "COUNTRY": {
     "AD": "Andorra",

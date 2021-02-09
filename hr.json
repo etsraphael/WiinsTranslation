@@ -253,10 +253,10 @@
     "responses": "odgovori",
     "soon": "uskoro",
     "views": "pogleda",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Udio",
+    "Url-Copied": "URL kopiran",
+    "Download": "preuzimanje datoteka",
+    "Downloaded": "Preuzeto"
   },
   "COUNTRY": {
     "AD": "Andora",

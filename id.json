@@ -253,10 +253,10 @@
     "responses": "tanggapan",
     "soon": "segera",
     "views": "tampilan",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Bagikan",
+    "Url-Copied": "Url disalin",
+    "Download": "Unduh",
+    "Downloaded": "Telah diunduh"
   },
   "COUNTRY": {
     "AD": "Andorra",

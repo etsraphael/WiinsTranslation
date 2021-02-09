@@ -253,10 +253,10 @@
     "Towards-an-infinite-space": "Към безкрайно пространство",
     "Hello": "Здравейте",
     "Publication": "Публикация",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Дял",
+    "Url-Copied": "URL адресът е копиран",
+    "Download": "Изтегли",
+    "Downloaded": "Изтеглено"
   },
   "COUNTRY": {
     "AD": "Андора",

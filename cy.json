@@ -253,10 +253,10 @@
     "responses": "ymatebion",
     "soon": "yn fuan",
     "views": "golygfeydd",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Rhannu",
+    "Url-Copied": "Copïodd Url",
+    "Download": "Dadlwythwch",
+    "Downloaded": "Dadlwythwyd"
   },
   "COUNTRY": {
     "AD": "Andorra",

@@ -253,10 +253,10 @@
     "responses": "відповіді",
     "soon": "найближчим часом",
     "views": "погляди",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Поділитися",
+    "Url-Copied": "URL-адресу скопійовано",
+    "Download": "Завантажити",
+    "Downloaded": "Завантажено"
   },
   "COUNTRY": {
     "AD": "Андорра",

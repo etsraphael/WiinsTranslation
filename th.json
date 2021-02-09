@@ -253,10 +253,10 @@
     "responses": "การตอบสนอง",
     "soon": "เร็ว ๆ นี้",
     "views": "มุมมอง",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "แบ่งปัน",
+    "Url-Copied": "คัดลอก URL แล้ว",
+    "Download": "ดาวน์โหลด",
+    "Downloaded": "ดาวน์โหลดแล้ว"
   },
   "COUNTRY": {
     "AD": "อันดอร์รา",

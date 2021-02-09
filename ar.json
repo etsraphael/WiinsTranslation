@@ -211,10 +211,10 @@
     "Towards-an-infinite-space": "نحو فضاء لانهائي",
     "Hello": "مرحبا",
     "Publication": "النشر",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "شارك",
+    "Url-Copied": "تم نسخ عنوان URL",
+    "Download": "تحميل",
+    "Downloaded": "تم التنزيل"
   },
   "COUNTRY": {
     "AD": "اندورا",

@@ -253,10 +253,10 @@
     "responses": "válaszokat",
     "soon": "hamar",
     "views": "nézetek",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "Ossza meg",
+    "Url-Copied": "URL másolva",
+    "Download": "Letöltés",
+    "Downloaded": "Letöltött"
   },
   "COUNTRY": {
     "AD": "Andorra",

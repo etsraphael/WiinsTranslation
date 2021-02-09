@@ -211,10 +211,10 @@
     "Towards-an-infinite-space": "К бесконечному пространству",
     "Hello": "Здравствуйте",
     "Publication": "Публикация",
-    "Share": "",
-    "Url-Copied": "",
-    "Download": "",
-    "Downloaded": ""
+    "Share": "доля",
+    "Url-Copied": "URL скопирован",
+    "Download": "Скачать",
+    "Downloaded": "Скачано"
   },
   "COUNTRY": {
     "AD": "Андорра",
