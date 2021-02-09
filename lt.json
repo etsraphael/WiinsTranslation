@@ -252,7 +252,11 @@
     "Friend": "Draugas",
     "Towards-an-infinite-space": "Begalinės erdvės link",
     "Hello": "Sveiki",
-    "Publication": "Publikacija"
+    "Publication": "Publikacija",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "Andora",
@@ -1400,7 +1404,11 @@
       "World-fusion": "Pasaulio sintezė",
       "Worldbeat": "Pasaulio ritmas",
       "Yacht-rock": "Jachtos uola",
-      "Others": "Kiti"
+      "Others": "Kiti",
+      "Flamenco": "Flamenko",
+      "Rock": "Rokas",
+      "Reggae": "Regis",
+      "Country": "Šalis"
     }
   },
   "WIINS-TUBE": {

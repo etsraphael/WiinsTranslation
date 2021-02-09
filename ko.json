@@ -210,7 +210,11 @@
     "Friend": "친구",
     "Towards-an-infinite-space": "무한한 공간을 향해",
     "Hello": "여보세요",
-    "Publication": "출판"
+    "Publication": "출판",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "안도라",
@@ -1343,7 +1347,11 @@
       "World-fusion": "세계 융합",
       "Worldbeat": "Worldbeat",
       "Yacht-rock": "요트 락",
-      "Others": "기타"
+      "Others": "기타",
+      "Flamenco": "플라멩코",
+      "Rock": "록",
+      "Reggae": "레게",
+      "Country": "국가"
     }
   },
   "WIINS-TUBE": {

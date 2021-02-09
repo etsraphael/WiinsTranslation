@@ -252,7 +252,11 @@
     "reply..": "balas ..",
     "responses": "tindak balas",
     "soon": "tidak lama lagi",
-    "views": "pandangan"
+    "views": "pandangan",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -1400,7 +1404,11 @@
       "World-fusion": "Perpaduan dunia",
       "Worldbeat": "Denyutan dunia",
       "Yacht-rock": "Batu kapal layar",
-      "Others": "Yang lain"
+      "Others": "Yang lain",
+      "Flamenco": "Flamenco",
+      "Rock": "Batu",
+      "Reggae": "Reggae",
+      "Country": "Negara"
     }
   },
   "WIINS-TUBE": {

@@ -210,7 +210,11 @@
     "Friend": "Freund",
     "Towards-an-infinite-space": "In Richtung eines unendlichen Raumes",
     "Hello": "Hallo",
-    "Publication": "Veröffentlichung"
+    "Publication": "Veröffentlichung",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -1343,7 +1347,11 @@
       "World-fusion": "Weltfusion",
       "Worldbeat": "Weltschlag",
       "Yacht-rock": "Yacht Rock",
-      "Others": "Andere"
+      "Others": "Andere",
+      "Flamenco": "Flamenco",
+      "Rock": "Felsen",
+      "Reggae": "Reggae",
+      "Country": "Land"
     }
   },
   "WIINS-TUBE": {

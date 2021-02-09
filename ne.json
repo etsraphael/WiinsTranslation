@@ -252,7 +252,11 @@
     "Friend": "मित्र",
     "Towards-an-infinite-space": "एक असीम स्थान तर्फ",
     "Hello": "नमस्कार",
-    "Publication": "प्रकाशन"
+    "Publication": "प्रकाशन",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "अन्डोरा",
@@ -1400,7 +1404,11 @@
       "World-fusion": "विश्व संलयन",
       "Worldbeat": "Worldbeat",
       "Yacht-rock": "याट रक",
-      "Others": "अन्य"
+      "Others": "अन्य",
+      "Flamenco": "फ्लेमेन्को",
+      "Rock": "Rock",
+      "Reggae": "रेगे",
+      "Country": "देश"
     }
   },
   "WIINS-TUBE": {

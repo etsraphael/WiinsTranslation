@@ -252,7 +252,11 @@
     "Friend": "Приятел",
     "Towards-an-infinite-space": "Към безкрайно пространство",
     "Hello": "Здравейте",
-    "Publication": "Публикация"
+    "Publication": "Публикация",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "Андора",
@@ -1400,7 +1404,11 @@
       "World-fusion": "Световен синтез",
       "Worldbeat": "Worldbeat",
       "Yacht-rock": "Яхтен рок",
-      "Others": "Други"
+      "Others": "Други",
+      "Flamenco": "Фламенко",
+      "Rock": "Рок",
+      "Reggae": "Реге",
+      "Country": "Държава"
     }
   },
   "WIINS-TUBE": {

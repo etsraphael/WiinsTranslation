@@ -210,7 +210,11 @@
     "Friend": "ਦੋਸਤ",
     "Towards-an-infinite-space": "ਅਨੰਤ ਜਗ੍ਹਾ ਵੱਲ",
     "Hello": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ",
-    "Publication": "ਪਬਲੀਕੇਸ਼ਨ"
+    "Publication": "ਪਬਲੀਕੇਸ਼ਨ",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": " ਅੰਡੋਰਾ",
@@ -1343,7 +1347,11 @@
       "World-fusion": "ਵਿਸ਼ਵ ਫਿ .ਜ਼ਨ",
       "Worldbeat": "ਵਰਲਡ ਬੀਟ",
       "Yacht-rock": "ਯਾਟ ਚੱਟਾਨ",
-      "Others": "ਹੋਰ"
+      "Others": "ਹੋਰ",
+      "Flamenco": "ਫਲੇਮੇਨਕੋ",
+      "Rock": "ਚੱਟਾਨ",
+      "Reggae": "ਰੇਗੀ",
+      "Country": "ਦੇਸ਼"
     }
   },
   "WIINS-TUBE": {

@@ -210,7 +210,11 @@
     "Friend": "友人",
     "Towards-an-infinite-space": "走向无限的空间",
     "Hello": "你好",
-    "Publication": "出版物"
+    "Publication": "出版物",
+    "Share": "",
+    "Url-Copied": "",
+    "Download": "",
+    "Downloaded": ""
   },
   "COUNTRY": {
     "AD": "安道尔",
@@ -1343,7 +1347,11 @@
       "World-fusion": "世界融合",
       "Worldbeat": "世界跳动",
       "Yacht-rock": "游艇岩",
-      "Others": "其他"
+      "Others": "其他",
+      "Flamenco": "佛朗明哥舞",
+      "Rock": "岩石",
+      "Reggae": "雷鬼",
+      "Country": "国家"
     }
   },
   "WIINS-TUBE": {
