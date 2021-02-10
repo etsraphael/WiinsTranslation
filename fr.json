@@ -210,7 +210,12 @@
     "Friend": "Ami",
     "Towards-an-infinite-space": "Vers un espace infini",
     "Hello": "Bonjour",
-    "Publication": "Publication"
+    "Publication": "Publication",
+    "Download": "Télécharger",
+    "Downloaded": "Téléchargé",
+    "Save-in-phone": "Enregistrer dans le téléphone",
+    "Share": "Partager",
+    "Url-Copied": "URL copiée"
   },
   "COUNTRY": {
     "AD": "Andorre",
