@@ -257,7 +257,10 @@
     "Url-Copied": "Url u kopjua",
     "Download": "Shkarko",
     "Downloaded": "Shkarkuar",
-    "Save-in-phone": "Kurseni në telefon"
+    "Save-in-phone": "Kurseni në telefon",
+    "No": "Jo",
+    "Yes": "po",
+    "Block-t-user": "Blloko këtë përdorues"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -1040,7 +1043,13 @@
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Kjo do të bëjë që i gjithë projekti të fshihet, jeni i sigurt?",
     "T-operation-is-irreversible": "Ky operacion është i pakthyeshëm",
     "this-user-will-be-": "Ky përdorues tani do të jetë",
-    "A-y-s-to-unfollow-t-profile": "A jeni i sigurt që do ta hiqni pas këtë profie?"
+    "A-y-s-to-unfollow-t-profile": "A jeni i sigurt që do ta hiqni pas këtë profie?",
+    "A-y-s-to-block-t-user": "A jeni i sigurt për të bllokuar këtë përdorues?",
+    "Y-a-abt-t-block-t-user-D": "Ju jeni gati për të bllokuar këtë përdorues. Ju nuk do të jeni më në gjendje të shikoni përmbajtjen e tij dhe gjithashtu këtë përdorues. Vetëm ju do të jeni në gjendje ta hiqni këtë kufizim.",
+    "T-content-has-been-reported": "Kjo përmbajtje është raportuar. Moderatorët tanë do të hedhin një vështrim në një vonesë prej 24 orësh për ta shqyrtuar atë. Një sanksion do të zbatohet nëse kjo nuk respekton rregullat e komunitetit.",
+    "T-user-has-been-blocked-D": "Ky përdorues është bllokuar nga llogaria juaj. Aucun contenu de ce profilin e dukshëm avec votre compte.",
+    "W-is-t-reason-to-report-t-post": "Cila është arsyeja për të raportuar këtë post?",
+    "W-is-t-reason-to-report-t-post-D": "Raporti juaj është anonim. Ju lutemi zgjidhni vetëm një kategori për të ndihmuar moratorët"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Paralajmërim. Sigurohuni që të keni adresën e duhur"

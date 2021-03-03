@@ -215,7 +215,10 @@
     "Url-Copied": "Url copied",
     "Download": "Download",
     "Downloaded": "Downloaded",
-    "Save-in-phone": "Save in phone"
+    "Save-in-phone": "Save in phone",
+    "No": "No",
+    "Yes": "Yes",
+    "Block-t-user": "Block this user"
   },
   "COUNTRY": {
     "AD": "Andorra",
@@ -983,7 +986,13 @@
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "This will cause the entire project to be deleted, are you sure ?",
     "T-operation-is-irreversible": "This operation is irreversible",
     "this-user-will-be-": "This user will now be",
-    "A-y-s-to-unfollow-t-profile": "Are you sure to unfollow this profie ? "
+    "A-y-s-to-unfollow-t-profile": "Are you sure to unfollow this profie ? ",
+    "A-y-s-to-block-t-user": "Are you sure to block this user ?",
+    "Y-a-abt-t-block-t-user-D": "You are about to block this user. You would no longer be able to watch his content and this user too. Only you would be able to remove this restriction.",
+    "T-content-has-been-reported": "This content has been reported. Our moderators will take a look in a 24 hours delay to review it. A sanction will be applied if this does not respect the rules of the community.",
+    "T-user-has-been-blocked-D": "This user has been blocked from your account. Aucun contenu de ce profile sera visible avec votre compte.",
+    "W-is-t-reason-to-report-t-post": "What is the reason to report this post ?",
+    "W-is-t-reason-to-report-t-post-D": "Your report is anonymous. Please choose just a category to help the morators"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Warning. Make sure you have the right address"

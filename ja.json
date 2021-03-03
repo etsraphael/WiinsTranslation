@@ -215,7 +215,10 @@
     "Url-Copied": "URLをコピーしました",
     "Download": "ダウンロード",
     "Downloaded": "ダウンロード済み",
-    "Save-in-phone": "電話で保存"
+    "Save-in-phone": "電話で保存",
+    "No": "番号",
+    "Yes": "はい",
+    "Block-t-user": "このユーザーをブロックする"
   },
   "COUNTRY": {
     "AD": "アンドラ",
@@ -983,7 +986,13 @@
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "これにより、プロジェクト全体が削除されます。",
     "T-operation-is-irreversible": "この操作は元に戻せません",
     "this-user-will-be-": "このユーザーは現在",
-    "A-y-s-to-unfollow-t-profile": "このprofieのフォローを解除してもよろしいですか？"
+    "A-y-s-to-unfollow-t-profile": "このprofieのフォローを解除してもよろしいですか？",
+    "A-y-s-to-block-t-user": "このユーザーをブロックしてもよろしいですか？",
+    "Y-a-abt-t-block-t-user-D": "このユーザーをブロックしようとしています。彼のコンテンツとこのユーザーも見ることができなくなります。この制限を解除できるのはあなただけです。",
+    "T-content-has-been-reported": "このコンテンツは報告されています。モデレーターは24時間遅れて確認します。これがコミュニティの規則を尊重しない場合、制裁が適用されます。",
+    "T-user-has-been-blocked-D": "このユーザーはあなたのアカウントからブロックされています。 Aucun contenu de ce profile seravisible avec votrecompte。",
+    "W-is-t-reason-to-report-t-post": "この投稿を報告する理由は何ですか？",
+    "W-is-t-reason-to-report-t-post-D": "あなたの報告は匿名です。モレーターを助けるためにカテゴリーだけを選んでください"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "警告。正しいアドレスを持っていることを確認する"

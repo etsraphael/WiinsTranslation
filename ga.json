@@ -257,7 +257,10 @@
     "Url-Copied": "Cóipeáladh Url",
     "Download": "Íoslódáil",
     "Downloaded": "Íoslódáilte",
-    "Save-in-phone": "Sábháil ar an bhfón"
+    "Save-in-phone": "Sábháil ar an bhfón",
+    "No": "Níl",
+    "Yes": "Sea",
+    "Block-t-user": "Cuir bac ar an úsáideoir seo"
   },
   "COUNTRY": {
     "AD": "Andóra",
@@ -1040,7 +1043,13 @@
     "T-ll-cause-t-entire-project-to-be-deleted-a-y-s": "Cuirfidh sé seo faoi deara an tionscadal iomlán a scriosadh, an bhfuil tú cinnte?",
     "T-operation-is-irreversible": "Tá an oibríocht seo dochúlaithe",
     "this-user-will-be-": "Beidh an t-úsáideoir seo anois",
-    "A-y-s-to-unfollow-t-profile": "An bhfuil tú cinnte an profie seo a nochtadh?"
+    "A-y-s-to-unfollow-t-profile": "An bhfuil tú cinnte an profie seo a nochtadh?",
+    "A-y-s-to-block-t-user": "An bhfuil tú cinnte an t-úsáideoir seo a bhac?",
+    "Y-a-abt-t-block-t-user-D": "Tá tú ar tí an t-úsáideoir seo a bhac. Ní bheifeá in ann féachaint ar a ábhar agus ar an úsáideoir seo a thuilleadh freisin. Ní bheifeá in ann an srian seo a bhaint.",
+    "T-content-has-been-reported": "Tuairiscíodh an t-ábhar seo. Féachfaidh ár modhnóirí le moill 24 uair an chloig chun é a athbhreithniú. Cuirfear smachtbhanna i bhfeidhm mura n-urramaíonn sé seo rialacha an phobail.",
+    "T-user-has-been-blocked-D": "Cuireadh bac ar an úsáideoir seo ó do chuntas. Aucun contenu de ce profile sera infheicthe avec votre compte.",
+    "W-is-t-reason-to-report-t-post": "Cad é an chúis atá leis an bpost seo a thuairisciú?",
+    "W-is-t-reason-to-report-t-post-D": "Tá do thuairisc gan ainm. Roghnaigh catagóir le do thoil chun cabhrú leis na morators"
   },
   "WARNING": {
     "BC-make-sure-you-have-the-correct-address": "Rabhadh. Déan cinnte go bhfuil an seoladh ceart agat"
